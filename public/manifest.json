@@ -1,0 +1,8 @@
+{
+    "short_name": "Transcriptor Voz",
+    "name": "Transcriptor de Voz a Texto",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
